@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://github.com/deepak6524">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
   <a href="mailto:deepak.6587k@gmail.com">Email</a>
 </p>
 
@@ -36,7 +37,7 @@ I enjoy turning ideas into working projects — from predictive models and intel
 ### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -75,17 +76,6 @@ A machine-learning mini project focused on **early prediction of sepsis risk** f
 Exploring production-style **Retrieval-Augmented Generation** systems that combine semantic vector retrieval with keyword-based search to ground LLM responses on internal documents.
 
 **Tech:** Python • Embeddings • Vector Databases • Hybrid Retrieval • LLMs
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepak6524&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak6524&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
 
 ---
 
